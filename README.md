@@ -12,7 +12,7 @@ This project represents my personal exploration into machine learning, focusing 
 ## Installation
 Clone the repository and follow these steps to get started:
 ```bash
-git clone https://github.com/your-username/covid19-ml-analysis.git
+git clone https://github.com/AstralSkies/FoundationsofAI.git
 cd covid19-ml-analysis
 pip install -r requirements.txt
 ```
