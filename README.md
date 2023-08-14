@@ -9,10 +9,18 @@ This project represents my personal exploration into machine learning, focusing 
 - Understanding the effectiveness of various mitigation strategies.
 - Visualizing complex data to make it more accessible.
 
+## Technologies
+The following libraries and tools are used in this project:
+- Python 3.x
+- Pandas
+- Scikit-learn
+- Matplotlib
+- TensorFlow
+- Jupyter Notebook
+
 ## Installation
-Clone the repository and follow these steps to get started:
+Clone the repository to get started:
 ```bash
 git clone https://github.com/AstralSkies/FoundationsofAI.git
-cd covid19-ml-analysis
-pip install -r requirements.txt
+cd FoundationsofAI
 ```
